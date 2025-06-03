@@ -1,0 +1,31 @@
+body a{
+    background-color: green;
+    color: black;
+}
+
+h1{
+    background-color: aqua;
+    color: yellow;
+}
+
+img{
+    margin: 20px 60px;
+}
+
+ul li{
+    color: red;
+}
+
+ol h3{
+    background-color: blue;
+    padding: -10px 25px;
+    color: yellow;
+    margin-bottom: 80px;
+    border: dotted black;
+}
+
+ol li{
+    margin-left: 220px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
