@@ -1,0 +1,31 @@
+h1{
+    background-color: aqua;
+    color: red;
+    padding: 20px;
+    border: dotted black;
+    margin-top: 25px;
+    margin-left: 23px;
+}
+
+.prviL{
+    margin-bottom: 20px;
+    border-style: solid;
+    border-color: yellow;
+    padding: 20px;
+}
+
+li.drugiL{
+    scroll-margin: 14px;
+    padding: 8px 15px;
+    box-shadow: 10px 10px darkblue;
+    border: double darkred;
+}
+
+#tri{
+    margin-top: 65px;
+    padding: 90px 67px;
+    border-style: groove;
+    border-color: orange;
+    border-bottom-right-radius: 75px;
+    text-align: center;
+}
